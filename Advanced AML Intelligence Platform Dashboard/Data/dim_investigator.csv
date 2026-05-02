@@ -1,0 +1,21 @@
+analyst_id,full_name,team,level,email,hire_date,is_active
+ANL001,Vidhi Banik,FCC Alpha,L1,vidhi.banik@bank.internal,2022-07-10,1
+ANL002,Vaishnavi Bhavsar,FCC Alpha,L1,vaishnavi.bhavsar@bank.internal,2018-09-25,1
+ANL003,Diya Mannan,FCC Alpha,L1,diya.mannan@bank.internal,2019-11-29,1
+ANL004,Keya Virk,FCC Alpha,L1,keya.virk@bank.internal,2022-01-08,1
+ANL005,Oscar Bhandari,FCC Beta,L1,oscar.bhandari@bank.internal,2018-12-30,1
+ANL006,Ijaya Dhawan,FCC Beta,L1,ijaya.dhawan@bank.internal,2022-07-02,1
+ANL007,Vivaan Nori,FCC Beta,L1,vivaan.nori@bank.internal,2022-09-26,1
+ANL008,Bina Varkey,FCC Beta,L1,bina.varkey@bank.internal,2022-11-14,1
+ANL009,Anjali Kulkarni,FCC Alpha,L2,anjali.kulkarni@bank.internal,2019-10-25,1
+ANL010,Kai Das,FCC Alpha,L2,kai.das@bank.internal,2018-05-02,1
+ANL011,Charles Nayar,FCC Alpha,L2,charles.nayar@bank.internal,2018-02-14,1
+ANL012,Idika Bali,FCC Beta,L2,idika.bali@bank.internal,2018-10-30,1
+ANL013,Maanas Aurora,FCC Beta,L2,maanas.aurora@bank.internal,2021-04-16,1
+ANL014,Ekansh Subramanian,FCC Beta,L2,ekansh.subramanian@bank.internal,2021-12-14,1
+ANL015,Fiyaz Sandhu,FCC Alpha,L3,fiyaz.sandhu@bank.internal,2018-10-18,1
+ANL016,Balvan Sridhar,FCC Alpha,L3,balvan.sridhar@bank.internal,2022-05-05,1
+ANL017,Bhavika Khalsa,FCC Beta,L3,bhavika.khalsa@bank.internal,2018-08-16,1
+ANL018,Naksh Saran,FCC Beta,L3,naksh.saran@bank.internal,2022-09-30,1
+ANL019,Joshua Sengupta,MLRO,Senior,joshua.sengupta@bank.internal,2020-12-13,1
+ANL020,Anay Halder,MLRO,Senior,anay.halder@bank.internal,2022-10-29,1
